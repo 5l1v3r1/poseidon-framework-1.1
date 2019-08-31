@@ -15,6 +15,14 @@
         |_|   |_| \_\/_/   \_\_|  |_|_____|  \_/\_/  \___/|_| \_\_|\_       
 
 
+--------------disclamer------------
+
+                  
+    this program is for authorised penetration testing with written concent only!!! 
+    the creators and distributors of this program are not responseble for anny misuse of this program. 
+    !!! use against a target without concent is a felony under The Computer Fraud and Abuse Act of 1986 (CFAA) in the united    states, 
+    and is generaly severely punished arround the world
+
 --------------discription-------------
 
                   (linux only)(must be run as root)
