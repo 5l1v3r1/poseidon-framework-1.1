@@ -14,21 +14,23 @@
         |  _| |  _ <  / ___ \| |  | | |___  \ V  V /| |_| |  _ <| . \ 
         |_|   |_| \_\/_/   \_\_|  |_|_____|  \_/\_/  \___/|_| \_\_|\_       
 
-! no dependancys or files required !
 
-payloads have 2 layers of encryption and are compiled to exe format
-! all connections are encrypted with aes !
+--------------discription-------------
+                  (linux only)(must be run as root)
+                  ! no dependancys or files required !
+                  payloads have 2 layers of encryption and are compiled to exe format
+                  ! all connections are encrypted with aes !
+                  installer builds the program into a binary file, then copies it to /usr/bin/
+                  payloads are basicly reverse_shells
 
-installer builds the program into a binary file, then copies it to /usr/bin/
+------------instructions-------------
 
+                  git clone https://github.com/9-s3c/ps-framework
+                  cd ps-framework
+                  ./install
+                  ps-framework
 
-just git clone it
-and ./install
-
-then just type ps-framework
-
-
-payloads are basicly reverse_shells
+----------sample--------------
 
          ____   ___  ____  _____ ___ ____   ___  _   _ 
         |  _ \ / _ \/ ___|| ____|_ _|  _ \ / _ \| \ | |
