@@ -34,7 +34,7 @@
 
 ------------instructions-------------
 
-                  git clone https://github.com/9-s3c/ps-framework
+                  git clone https://github.com/9-s3c/poseidon-framework
                   cd ps-framework
                   ./install
                   ps-framework
