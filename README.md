@@ -1,5 +1,6 @@
 # ps-framework
 100% fud payload generator 
+!!! no metasploit !!!
 
          ____   ___  ____  _____ ___ ____   ___  _   _ 
         |  _ \ / _ \/ ___|| ____|_ _|  _ \ / _ \| \ | |
@@ -15,6 +16,9 @@
 
 ! no dependancys or files required !
 
+payloads have 2 layers of encryption and are compiled to exe format
+! all connections are encrypted with aes !
+
 installer builds the program into a binary file, then copies it to /usr/bin/
 
 
@@ -24,7 +28,7 @@ and ./install
 then just type ps-framework
 
 
-its basicly just a shell
+payloads are basicly reverse_shells
 
          ____   ___  ____  _____ ___ ____   ___  _   _ 
         |  _ \ / _ \/ ___|| ____|_ _|  _ \ / _ \| \ | |
