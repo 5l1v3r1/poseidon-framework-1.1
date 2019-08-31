@@ -16,6 +16,7 @@
 
 
 --------------discription-------------
+
                   (linux only)(must be run as root)
                   ! no dependancys or files required !
                   payloads have 2 layers of encryption and are compiled to exe format
