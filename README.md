@@ -13,6 +13,11 @@
         |  _| |  _ <  / ___ \| |  | | |___  \ V  V /| |_| |  _ <| . \ 
         |_|   |_| \_\/_/   \_\_|  |_|_____|  \_/\_/  \___/|_| \_\_|\_       
 
+! no dependancys or files required !
+
+installer builds the program into a binary file, then copies it to /usr/bin/
+
+
 just git clone it
 and ./install
 
@@ -48,4 +53,6 @@ its basicly just a shell
         [B,L,E] : 
 
 source code 4 the program https://pastebin.com/7SZW2ztv
+
 source code 4 the all in 1 installer https://pastebin.com/aCyXTXzJ
+
