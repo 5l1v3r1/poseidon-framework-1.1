@@ -66,8 +66,3 @@
 
         [B]BUILDER [L]LISTENER [E]EXIT
         [B,L,E] : 
-
-source code 4 the program https://pastebin.com/7SZW2ztv
-
-source code 4 the all in 1 installer https://pastebin.com/aCyXTXzJ
-
