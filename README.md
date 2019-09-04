@@ -33,11 +33,17 @@
                   payloads are basicly reverse_shells
 
 ------------instructions-------------
-
-                  git clone https://github.com/9-s3c/poseidon-framework
-                  cd ps-framework
-                  ./install
-                  ps-framework
+                  
+                  -------download-------
+                     git clone https://github.com/9-s3c/poseidon-framework-1.1
+                  
+                  --------install-------
+                     cd poseidon-framework-1.1
+                     sudo chmod 777 poseidon-framework-2.2
+                     ./poseidon-framework-2.2
+                  
+                  --------run-----------
+                      anny time you want to run it 
 
 ----------sample--------------
 
