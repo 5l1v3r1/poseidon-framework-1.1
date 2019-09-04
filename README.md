@@ -43,7 +43,7 @@
                      ./poseidon-framework-2.2
                   
                   --------run-----------
-                      anny time you want to run it 
+                      sudo ps-framework
 
 ----------sample--------------
 
