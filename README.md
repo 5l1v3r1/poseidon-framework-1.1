@@ -41,7 +41,7 @@
                      cd poseidon-framework-1.1
                      sudo chmod 777 poseidon-framework-2.2
                      ./poseidon-framework-2.2
-                     wine py -m pip install cryptography
+                     wine python -m pip install cryptography
                   
                   --------run-----------
                       sudo ps-framework
